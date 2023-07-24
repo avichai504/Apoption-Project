@@ -47,3 +47,5 @@ class Carousel extends Component {
 }
 
 export default Carousel;
+
+// This is test for GitHub
