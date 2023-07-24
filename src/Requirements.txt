@@ -1,0 +1,18 @@
+Requirements for Adopt me
+
+Functional Requirements:
+
+1) The system will 
+1) The search for new pet will take maximum of 1 seconde
+
+2) The web will be able to wold up to 500,000 pets world-wid
+
+3) The system will not allow to have more then two pet in the same year
+
+4) The system will ask for any an-non user for interview process
+
+Non-Functional Requirements:
+
+1) The web will have picture for any pet
+
+2) The web will have connection for the 
